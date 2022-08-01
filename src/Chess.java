@@ -9,6 +9,7 @@ public class Chess
 	}
 	
 	public String getColor()
+//comment
 	{
 		return this.color;
 	}
