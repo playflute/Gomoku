@@ -16,7 +16,7 @@ public class GameController {
 		
 		while(true)
 		{
-			//1 white firstly put down	
+			//1 white firstly put down 白方落子
 
 			System.out.print("白方请输入行:");
 		    row=s.nextInt();

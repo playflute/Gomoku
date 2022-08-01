@@ -7,7 +7,7 @@ public class Chess
 	{
 		this.color=color;
 	}
-	
+	ewes
 	public String getColor()
 //comment
 	{
