@@ -16,6 +16,6 @@ public abstract class AbstractReferee
 		this.name = name;
 	}
 	
-	public abstract String judge(ChessBoard c);
+	public abstract boolean judge(ChessBoard c);
 
 }
