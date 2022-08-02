@@ -11,9 +11,7 @@ public class Chess
 
 //comment
 
-// we are all great
-	
-	//kkkkkkkkkkkkkkk
+// xxxxxxxxxxx
 
 //yetyeryerterttsrgfertedrtgr
 
