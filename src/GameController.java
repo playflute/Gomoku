@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class GameController {
-
+//very cool
 	public static void main(String[] args) 
 	{
 		

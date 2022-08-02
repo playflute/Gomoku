@@ -1,4 +1,4 @@
-i
+
 public class Chess 
 {
 	private String color;
@@ -7,6 +7,7 @@ public class Chess
 	{
 		this.color=color;
 	}
+	//bullshit
 
 
 //comment
