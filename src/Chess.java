@@ -8,10 +8,9 @@ public class Chess
 		this.color=color;
 	}
 
-	public String getColor()
+
 //comment
-	{
-		return this.color;
-	}
+	//Austin said today is hot
+
 
 }
