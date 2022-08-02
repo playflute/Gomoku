@@ -10,7 +10,10 @@ public class Chess
 
 
 //comment
-	//Austin said today is hot
+
+	//Austin is always right
+
+
 
 
 }
