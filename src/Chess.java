@@ -11,7 +11,8 @@ public class Chess
 
 //comment
 
-	//Austin is always right
+
+	// Tim is great
 
 
 
