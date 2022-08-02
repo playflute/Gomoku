@@ -10,6 +10,7 @@ public class Chess
 
 	public String getColor()
 //comment
+// Tim new comment
 	{
 		return this.color;
 	}
